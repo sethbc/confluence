@@ -1,2 +1,2 @@
 # Confluence
-A generative ambient granular soundscape generator for monome norns.
+An ambient granular soundscape generator for monome norns.
